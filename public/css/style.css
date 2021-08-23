@@ -319,14 +319,20 @@ form{
 
     .pull-left  li a {
         padding-right: 15px;
+        font-size: 12px;
     }
     .margin {
         width: fit-content;
     }
+
 }
 @media  screen and (max-width: 375px) {
         .margin{
             width: fit-content;
+        }
+        .pull-left  li a {
+            padding-right: 15px;
+            font-size: 12px;
         }
         .main-menu > ul > li{
             display: none;
