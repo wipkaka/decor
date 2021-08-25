@@ -314,7 +314,19 @@ form{
     padding: 15px;
     font-size: 16px;
 }
-@media  screen and (max-width: 320px)
+@media  screen and (max-width: 294px)
+{
+
+    .pull-left  li a {
+        padding-right: 15px;
+        font-size: 10px;
+    }
+    .margin {
+        width: fit-content;
+    }
+
+}
+@media  screen and (min-width: 295px) and  (max-width: 320px)
 {
 
     .pull-left  li a {
@@ -326,7 +338,7 @@ form{
     }
 
 }
-@media  screen and (max-width: 375px) {
+@media  screen and (min-width: 321px) and  (max-width: 375px) {
         .margin{
             width: fit-content;
         }
