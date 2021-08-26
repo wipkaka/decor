@@ -25,7 +25,6 @@
             </div>
         </div>
         <h4 class="head">FANPAGE</h4>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v11.0" nonce="G1oVLto3"></script>
         <div class="fb-page" data-href="https://www.facebook.com/phukiensinhnhatvps" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/phukiensinhnhatvps" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/phukiensinhnhatvps">Phụ Kiện Sinh Nhật Valley Party Store</a></blockquote></div>
     </div>
 </div>

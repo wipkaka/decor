@@ -611,6 +611,9 @@ form{
     .sing-item-content{
         width: 210px;
     }
+    #searchform {
+        display: none;
+    }
     .tle{
         font-size: 16px;
         width: 200px;
